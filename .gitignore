@@ -1,3 +1,7 @@
+# VS Code Config
+.vscode
+*.code-workspace
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,7 @@
 *.exe
 *.out
 *.app
+
+# Others
+*.ilk
+*.pdb
